@@ -6,3 +6,4 @@ I never really knew how to code or learn but now I kinda do because ima be makin
 
 stars ✨ 
 
+![Wlrdares GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
